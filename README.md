@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Felix 👋
 
-<!--
-**defisoulog/defisoulog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Licensed **dental hygienist (Florida)** with a clinical background in dentistry, who taught himself **AI and computer vision** — and now builds with it.
 
-Here are some ideas to get you started:
+🦷 ~15 years in clinical care · 🧠 self-taught CV/ML · 🌎 bilingual (EN / ES)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I do**
+- Train, label, and deploy custom computer-vision models end to end
+- Medical & dental image annotation — bounding boxes, polygons, 2D/3D segmentation (CVAT, Label Studio, 3D Slicer)
+- Bring a clinician's eye for detail to AI data quality and evaluation
+
+Building independently in consumer health tech (in stealth), and sharing open-source tools with the dev community along the way.
+
+*Open to remote AI-training, annotation, and clinical-AI work.*
+
+
